@@ -1,0 +1,14 @@
+numpy
+pandas
+pillow
+scikit-learn
+tqdm
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+safetensors
+sentencepiece
+einops
+timm

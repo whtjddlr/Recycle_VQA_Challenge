@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Challenge data
+train.csv
+valid.csv
+valid_part.csv
+test.csv
+sample_submission.csv
+images/
+data/
+
+# Generated artifacts
+artifacts/
+outputs/
+runs/
+checkpoints/
+logs/
+focus_panels/
+brain_cache/
+context_cache/
+.adapter_cache/
+
+# Model weights / adapters
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+best_*/
+*_adapter/
+*_checkpoint/
+
+# Submissions and debug outputs
+submission*.csv
+*_submission.csv
+*_predictions*.csv
+*_predictions_full.csv
+*_answer.csv
+*_meta.csv
+*_detections.csv
+*_crops.csv
+*_context_summary.csv
+*_brain_plan.csv
+*_ids.txt
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
