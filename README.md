@@ -1,4 +1,5 @@
-# 재활용품 이미지 기반 VQA 모델 | SSAFY AI Challenge 전국 1위
+# 재활용품 이미지 기반 VQA 모델 
+# SSAFY AI Challenge 전국 1위
 
 SSAFY 15기 2회차 AI 챌린지에서 재활용품 이미지 기반 질의응답(VQA) 모델을 개발해 전국 1위를 달성한 최종 솔루션입니다!
 
